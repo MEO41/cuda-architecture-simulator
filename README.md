@@ -1,6 +1,6 @@
 # CUDA GPU Simulator Web App 🖥️🚀
 
-![CUDA GPU Simulator Screenshot](https://via.placeholder.com/800x400.png?text=CUDA+GPU+Simulator+Preview)
+![CUDA GPU Simulator Screenshot](https://github.com/MEO41/cuda-architecture-simulator/blob/main/src/assets/screenshot.png?raw=true)
 
 ## 🔍 Overview
 
@@ -59,9 +59,6 @@ src/
 
 This simulator aims to bridge the gap between theory and practice in parallel programming. It’s ideal for students, educators, or anyone curious about how GPUs achieve massive speedups using thousands of threads.
 
-## 📷 Screenshots
-
-> _(Replace with actual screenshots once available)_
 
 ## 📝 License
 
