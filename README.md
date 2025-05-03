@@ -1,5 +1,7 @@
 # CUDA GPU Simulator Web App 🖥️🚀
 https://cuda-architecture-simulator.netlify.app/
+
+
 ![CUDA GPU Simulator Screenshot](https://github.com/MEO41/cuda-architecture-simulator/blob/main/src/assets/screenshot.png?raw=true)
 
 ## 🔍 Overview
