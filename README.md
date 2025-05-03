@@ -48,10 +48,8 @@ npm run dev
 
 ```
 src/
-├── components/       # UI components
-├── simulations/      # Core GPU simulation logic
-├── assets/           # Images, icons
-├── App.jsx           # Main app entry
+├── src/assets/           # Images, icons
+├── src/App.jsx           # Main app entry
 └── index.html        # HTML entry point
 ```
 
